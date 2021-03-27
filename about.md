@@ -1,0 +1,8 @@
+---
+layout: default
+title: About 
+---
+
+# About 
+
+I grew up with interesting in gaming and music. The interest in videogames led me to be curious about computers as a child, and the interest in music gave me a creative drive. So when I discovered programming, it felt like a perfect fit - the problem-solving was challenging in a rigorous, logical way that I enjoyed, but the problems were also open-ended. As I learned more about software engineering, I realized that by combining logic and creativity, I could build software that I was very proud of, and that no one else would build the same way! So that's why I chose to make a career out of it. 
