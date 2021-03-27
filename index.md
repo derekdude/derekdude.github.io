@@ -26,6 +26,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+```Java
+public static void main(String[] args) {
+	// more code to come      
+}
+```
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
