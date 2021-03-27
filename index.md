@@ -1,3 +1,7 @@
+## [Blog](derekdude.github.io/blog/)
+
+<!---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/derekdude/derekdude.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
@@ -26,12 +30,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-```Java
-public static void main(String[] args) {
-	// more code to come      
-}
-```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
@@ -41,3 +39,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+--->
