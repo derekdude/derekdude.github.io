@@ -1,4 +1,4 @@
-### [Blog](blog.html)
+### [Blog](blog/blog.html)
 
 <!---
 
