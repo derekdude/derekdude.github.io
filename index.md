@@ -1,4 +1,4 @@
-## [Blog](derekdude.github.io/blog/)
+### [Blog](derekdude.github.io/blog/blog.html)
 
 <!---
 
