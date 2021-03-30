@@ -1,3 +1,5 @@
+@import "config";
+
 // Menu Button
 .menu-btn {
   position: absolute;
@@ -20,6 +22,7 @@
     transform: rotate(180deg);
 
     .btn-line {
+      background: $secondary-color;
       // Line 1 - Rotate
       &:nth-child(1) {
         transform: rotate(45deg) translate(5px, 5px);
@@ -30,7 +33,7 @@
       }
       // Line 3 - Rotate
       &:nth-child(3) {
-        transform: rotate(-45deg) translate(7px, -6px);
+        transform: rotate(-45deg) translate(6.5px, -6.5px);
       }
     }
   }
