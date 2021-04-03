@@ -166,6 +166,7 @@ main {
   grid-template-areas: "bioimage bio bio" "job1 job2 job3";
   grid-template-columns: repeat(3, 1fr); }
   .about-info .bio-image {
+    background-image: url("../img/portrait.jpg");
     size: 250px;
     height: 250px;
     width: 250px;
