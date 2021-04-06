@@ -15,6 +15,15 @@ body {
   line-height: 1.5;
 }
 
+#about {
+  a {
+    &:hover {
+      color: $secondary-color;
+      @include easeOut();
+    }
+  }
+}
+
 // Headings
 h1,
 h2,
